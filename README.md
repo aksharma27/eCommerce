@@ -1,5 +1,21 @@
 ### THIS IS A MAJOR PROJECT ON ECOMMERCE APPLICATION USING MERN STACK
 
+### ShopNow -
+
+ABOUT:
+-  ShopNow is a full stack ecommerce website.
+-  Helps to users find products easily and efficiently at just one click.
+-  Provides merchants to sell their products.
+
+TECH STACK : 
+- Frontend : 
+
+- Backend : nodejs, expressjs, mongodb
+
+### COLLABORATORS : 
+<a href="http://www.github.com/aksharma27/"><img src="https://avatars.githubusercontent.com/u/83135634?v=4" width="100px;" alt="Abhishek"/><br /><sub><b>Abhishek</b></sub></a><br />
+<!-- <a href="https://github.com/all-contributors/all-contributors/commits?author=King-BR" title="Documentation"> -->
+
 ### HOW TO USE THIS?
 1) Fork the Repository
 2) paste the following command on your CLI : [git clone https://github.com/aksharma27/eCommerce]
@@ -7,3 +23,5 @@
 4) Install dotenv and express package : git i dotenv express 
 5) create a file namde : [config.env] in the root directory and give a port number just like in the example.env file
 6) Run the server : [npm start]
+
+

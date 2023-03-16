@@ -14,7 +14,7 @@ TECH STACK :
 
 ### COLLABORATORS : 
 <div>
-<a display="inline;" href="https://github.com/unnatigupta2019"><img src="https://avatars.githubusercontent.com/u/97681594?v=4" width="100px;" alt="Unnati"/><sub><br/><b>Unnati</b></sub></a>
+<a display="inline;" href="https://github.com/unnatigupta2019"><img src="https://avatars.githubusercontent.com/u/97681594?v=4" width="100px;" alt="Unnati"/><sub><br/><b>Unnati</b></sub></a><br/>
 </div>
 <div>
 <a display="inline;" href="http://www.github.com/aksharma27/"><img src="https://avatars.githubusercontent.com/u/83135634?v=4" width="100px;" border-radius="50%;" alt="Abhishek"/><sub><br/><b>Abhishek</b></sub></a>

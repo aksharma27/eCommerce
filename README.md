@@ -13,8 +13,10 @@ TECH STACK :
 - Backend : nodejs, expressjs, mongodb
 
 ### COLLABORATORS : 
+<div>
 <a href="https://github.com/unnatigupta2019"><img src="https://avatars.githubusercontent.com/u/97681594?v=4" width="100px;" alt="Unnati"/><sub><b>Unnati</b></sub></a>
-<a href="http://www.github.com/aksharma27/"><img src="https://avatars.githubusercontent.com/u/83135634?v=4" width="100px;" border-radius="50%" alt="Abhishek"/><br /><sub><b>Abhishek</b></sub></a><br />
+</div>
+<a href="http://www.github.com/aksharma27/"><img src="https://avatars.githubusercontent.com/u/83135634?v=4" width="100px;" border-radius="50%" alt="Abhishek"/><sub><b>Abhishek</b></sub></a>
 <!-- <a href="https://github.com/all-contributors/all-contributors/commits?author=King-BR" title="Documentation"> -->
 
 ### HOW TO USE THIS?

@@ -50,3 +50,8 @@ div.cards div.col1 div.contact>svg {
 div.cards div.col2 div.contact>svg {
     margin-left: 4px;
 }
+
+div.cards div.col2 div.payment svg {
+    margin-left: 10px;
+    transform: rotate(140deg);
+}
